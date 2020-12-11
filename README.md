@@ -1,6 +1,5 @@
 # openFrameworks site
 
-[English](README.md) | [中文](README-zh.md) | [日本語](README-ja.md) | [한국어](README-ko.md)
 
 
 This repository stores the content and code that generates the [openFrameworks](http://openFrameworks.cc/) website.
